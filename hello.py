@@ -11,5 +11,5 @@ sentences = [
 ]
 print(random.choice(sentences))
 
-for letter in string.ascii_lowercase:
+for letter in string.ascii_uppercase:
     print(letter)
