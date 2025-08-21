@@ -4,3 +4,8 @@ Here's a programming joke for you:
 
 Why do programmers prefer dark mode?
 Because light attracts bugs.
+
+Here's an AI joke for you:
+
+Why did the neural network go to therapy?
+Because it had too many layers.
