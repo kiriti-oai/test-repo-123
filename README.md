@@ -9,3 +9,8 @@ Here's an AI joke for you:
 
 Why did the neural network go to therapy?
 Because it had too many layers.
+
+Here's a joke about the current state of the world:
+
+Why does the world feel like it's stuck in beta?
+Because every time we fix one bug, a new update introduces two more.
